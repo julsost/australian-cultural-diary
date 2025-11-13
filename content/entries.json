@@ -1,14 +1,20 @@
 [
   {
     "id": "entry-1",
-    "title": "Diary Entry 1: A Cultural Moment",
+    "title": "Entry 1: Diverse Cuisines of Sydney",
     "date": "2025-01-01",
     "images": [
-      "image1_1.jpg",
-      "image1_2.jpg"
+      "food1.jpg",
+      "food2.jpg",
+      "food3.jpg"
     ],
-    "description": "Short description for diary entry 1. Context about the cultural item, where it came from, and why it's meaningful.",
-    "reflection": "Reflection paragraph 1 for entry 1. This is the graded material \u2014 1\u20133 paragraphs describing personal response and analysis.\n\n(If needed, add a second short paragraph.)"
+    "description": "Sydney’s food scene reflects the multicultural character of Australia today. From Chinatown to Korean BBQ and Japanese ramen shops, the city’s diverse cuisines reveal a lot about the multiculuraism in the country. I took photos of sushi tacos from the sydney fish market, udon from a whole in te wall restaurant, thai curry and pizza at a local pub. 
+",
+    "reflection": "Before coming to Australia, I had udon with my mom for my last dinner in the U.S. because I imagined that when I arrived in Sydney, I would be surrounded by meat pies, Anzac biscuits, and Tim Tams, based on my limited knowledge of Australian food. Instead, our hotel was just a short walk from Chinatown and other cultural centers, with Korean, Japanese, and Thai restaurants on every street. At first, I was surprised but assumed it was unique to Sydney as a large city and didn’t understand the broader significance within Australian history.
+It was only in Australian Studies, when we learned about Australian multiculturalism, that I realized these observations represent something much larger and still currently relevant to Australia. During the Gold Rush, thousands of Chinese migrants came to Australia, but their arrival sparked restrictive immigration attitudes that later evolved into the White Australia Policy after Federation. This policy aimed to preserve a monocultural “White Australia” for much of the 20th century. The post-war “Populate or Perish” policy, which brought many British immigrants known as the Ten Pound Poms, and later multicultural reforms, marked the beginning of Australia’s shift toward embracing diversity as central to its identity.
+I initially thought this journey toward a multicultural and accepting country was in the past and had largely succeeded. However, we also learned about recent protests around the country where some Australians still call for a “White Australia” and a decrease in immigration. Hearing about this reminded me of the similar protests that happen across the United States, seemingly reversing decades of positive growth toward the multicultural countries Australia and the U.S. strive to be today.
+The diverse cuisines of Sydney were a welcome reminder of home in California, where so many different cultural groups coexist. It was also a way to see into the struggles and ongoing growth happening in Australia as the country grapples with its past and continues taking steps toward a more diverse and accepting future.
+"
   },
   {
     "id": "entry-2",
