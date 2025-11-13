@@ -1,0 +1,112 @@
+[
+  {
+    "id": "entry-1",
+    "title": "Diary Entry 1: A Cultural Moment",
+    "date": "2025-01-01",
+    "images": [
+      "image1_1.jpg",
+      "image1_2.jpg"
+    ],
+    "description": "Short description for diary entry 1. Context about the cultural item, where it came from, and why it's meaningful.",
+    "reflection": "Reflection paragraph 1 for entry 1. This is the graded material \u2014 1\u20133 paragraphs describing personal response and analysis.\n\n(If needed, add a second short paragraph.)"
+  },
+  {
+    "id": "entry-2",
+    "title": "Diary Entry 2: A Cultural Moment",
+    "date": "2025-02-02",
+    "images": [
+      "image2_1.jpg",
+      "image2_2.jpg"
+    ],
+    "description": "Short description for diary entry 2. Context about the cultural item, where it came from, and why it's meaningful.",
+    "reflection": "Reflection paragraph 1 for entry 2. This is the graded material \u2014 1\u20133 paragraphs describing personal response and analysis.\n\n(If needed, add a second short paragraph.)"
+  },
+  {
+    "id": "entry-3",
+    "title": "Diary Entry 3: A Cultural Moment",
+    "date": "2025-03-03",
+    "images": [
+      "image3_1.jpg",
+      "image3_2.jpg"
+    ],
+    "description": "Short description for diary entry 3. Context about the cultural item, where it came from, and why it's meaningful.",
+    "reflection": "Reflection paragraph 1 for entry 3. This is the graded material \u2014 1\u20133 paragraphs describing personal response and analysis.\n\n(If needed, add a second short paragraph.)"
+  },
+  {
+    "id": "entry-4",
+    "title": "Diary Entry 4: A Cultural Moment",
+    "date": "2025-04-04",
+    "images": [
+      "image4_1.jpg",
+      "image4_2.jpg"
+    ],
+    "description": "Short description for diary entry 4. Context about the cultural item, where it came from, and why it's meaningful.",
+    "reflection": "Reflection paragraph 1 for entry 4. This is the graded material \u2014 1\u20133 paragraphs describing personal response and analysis.\n\n(If needed, add a second short paragraph.)"
+  },
+  {
+    "id": "entry-5",
+    "title": "Diary Entry 5: A Cultural Moment",
+    "date": "2025-05-05",
+    "images": [
+      "image5_1.jpg",
+      "image5_2.jpg"
+    ],
+    "description": "Short description for diary entry 5. Context about the cultural item, where it came from, and why it's meaningful.",
+    "reflection": "Reflection paragraph 1 for entry 5. This is the graded material \u2014 1\u20133 paragraphs describing personal response and analysis.\n\n(If needed, add a second short paragraph.)"
+  },
+  {
+    "id": "entry-6",
+    "title": "Diary Entry 6: A Cultural Moment",
+    "date": "2025-06-06",
+    "images": [
+      "image6_1.jpg",
+      "image6_2.jpg"
+    ],
+    "description": "Short description for diary entry 6. Context about the cultural item, where it came from, and why it's meaningful.",
+    "reflection": "Reflection paragraph 1 for entry 6. This is the graded material \u2014 1\u20133 paragraphs describing personal response and analysis.\n\n(If needed, add a second short paragraph.)"
+  },
+  {
+    "id": "entry-7",
+    "title": "Diary Entry 7: A Cultural Moment",
+    "date": "2025-07-07",
+    "images": [
+      "image7_1.jpg",
+      "image7_2.jpg"
+    ],
+    "description": "Short description for diary entry 7. Context about the cultural item, where it came from, and why it's meaningful.",
+    "reflection": "Reflection paragraph 1 for entry 7. This is the graded material \u2014 1\u20133 paragraphs describing personal response and analysis.\n\n(If needed, add a second short paragraph.)"
+  },
+  {
+    "id": "entry-8",
+    "title": "Diary Entry 8: A Cultural Moment",
+    "date": "2025-08-08",
+    "images": [
+      "image8_1.jpg",
+      "image8_2.jpg"
+    ],
+    "description": "Short description for diary entry 8. Context about the cultural item, where it came from, and why it's meaningful.",
+    "reflection": "Reflection paragraph 1 for entry 8. This is the graded material \u2014 1\u20133 paragraphs describing personal response and analysis.\n\n(If needed, add a second short paragraph.)"
+  },
+  {
+    "id": "entry-9",
+    "title": "Diary Entry 9: A Cultural Moment",
+    "date": "2025-09-09",
+    "images": [
+      "image9_1.jpg",
+      "image9_2.jpg"
+    ],
+    "description": "Short description for diary entry 9. Context about the cultural item, where it came from, and why it's meaningful.",
+    "reflection": "Reflection paragraph 1 for entry 9. This is the graded material \u2014 1\u20133 paragraphs describing personal response and analysis.\n\n(If needed, add a second short paragraph.)"
+  },
+  {
+    "id": "entry-10",
+    "title": "Diary Entry 10: A Cultural Moment",
+    "date": "2025-01-01",
+    "images": [
+      "image10_1.jpg",
+      "image10_2.jpg"
+    ],
+    "description": "Short description for diary entry 10. Context about the cultural item, where it came from, and why it's meaningful.",
+    "reflection": "Reflection paragraph 1 for entry 10. This is the graded material \u2014 1\u20133 paragraphs describing personal response and analysis.\n\n(If needed, add a second short paragraph.)"
+  }
+]
