@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/australian-cultural-diary/', // 👈 VERY IMPORTANT
+  base: '/australian-cultural-diary-juliet-sostena/', // 👈 VERY IMPORTANT
 })
