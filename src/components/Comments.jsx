@@ -50,7 +50,7 @@ export default function Comments({entryId}){
       </ul>
 
       <div className="mt-3 text-xs text-gray-500">
-        To persist comments across devices, see README notes about using GitHub Issues or a small backend.
+        
       </div>
     </section>
   )

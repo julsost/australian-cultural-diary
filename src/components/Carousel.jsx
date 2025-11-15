@@ -23,7 +23,7 @@ export default function Carousel({ entries, selected, onSelect }) {
   // 👇 spin the whole ring forever
   useEffect(() => {
     controls.start({
-      rotate: 660,
+      rotate: 1000,
       transition: {
         repeat: Infinity,
         ease: "linear",
@@ -45,13 +45,13 @@ export default function Carousel({ entries, selected, onSelect }) {
   const isMobile =
     typeof window !== "undefined" && window.innerWidth < 768;
   const radius = isMobile ? 50 : 50;
-  const size = isMobile ? 300 : 450;
+  const size = isMobile ? 300 : 750;
 
   return (
     <nav>
       {/* orbit view (desktop) */}
       <div className="relative flex flex-col items-center justify-center hidden sm:flex">
-        <div className="relative translate-y-10 -translate-x-6">
+        <div className="relative translate-y-20 -translate-x-60">
           <motion.div
             animate={controls}
             className="relative rounded-full border border-sand flex items-center justify-center overflow-visible"
@@ -74,7 +74,7 @@ export default function Carousel({ entries, selected, onSelect }) {
                   >
                     <button
                       onClick={() => onSelect(e.id)}
-                      className={`w-24 h-24 sm:w-28 sm:h-28 rounded-full overflow-hidden border-4 shadow-md hover:scale-105 transition-transform ${
+                      className={`w-36 h-36 sm:w-29 sm:h-29 rounded-full overflow-hidden border-4 shadow-md hover:scale-105 transition-transform ${
                         selected === e.id
                           ? "border-eucalyptus ring-2 ring-eucalyptus/40"
                           : "border-gray-200"
@@ -84,8 +84,8 @@ export default function Carousel({ entries, selected, onSelect }) {
                       <img
                         src={
                           e.images[0]
-                            ? `/images/${e.images[0]}`
-                            : "/images/placeholder.jpg"
+                            ? `/australian-cultural-diary/images/${e.images[0]}`
+                            : "/australian-cultural-diary/images/placeholder.jpg"
                         }
                         alt={e.title}
                         className="w-full h-full object-cover"
@@ -114,8 +114,8 @@ export default function Carousel({ entries, selected, onSelect }) {
             <img
               src={
                 e.images[0]
-                  ? `/images/${e.images[0]}`
-                  : "/images/placeholder.jpg"
+                  ? `/australian-cultural-diary/images/${e.images[0]}`
+                  : "/australian-cultural-diary/images/placeholder.jpg"
               }
               alt={e.title}
               className="w-20 h-20 object-cover rounded-full"
