@@ -43,7 +43,7 @@ Error generating stack: `+s.message+`
 
 (If needed, add a second short paragraph.)`},{id:"entry-5",title:"Diary Entry 5: A Cultural Moment",date:"2025-05-05",images:["image5_1.jpg","image5_2.jpg"],description:"Short description for diary entry 5. Context about the cultural item, where it came from, and why it's meaningful.",reflection:`Reflection paragraph 1 for entry 5. This is the graded material — 1–3 paragraphs describing personal response and analysis.
 
-(If needed, add a second short paragraph.)`},{id:"entry-6",title:"Diary Entry 6: A Cultural Moment",date:"2025-06-06",images:["image6_1.jpg","image6_2.jpg"],description:"Short description for diary entry 6. Context about the cultural item, where it came from, and why it's meaningful.",reflection:`Reflection paragraph 1 for entry 6. This is the graded material — 1–3 paragraphs describing personal response and analysis.
+(If needed, add a second short paragraph.)`},{id:"entry-6",title:"Diary Entry 6: Australian Megafauna",date:"2025-11-06",images:["animal1.jpg","animal2.jpg","animal3.jpg","animal4.jpg"],description:"Short description for diary entry 6. Context about the cultural item, where it came from, and why it's meaningful.",reflection:`Reflection paragraph 1 for entry 6. This is the graded material — 1–3 paragraphs describing personal response and analysis.
 
 (If needed, add a second short paragraph.)`},{id:"entry-7",title:"Diary Entry 7: A Cultural Moment",date:"2025-07-07",images:["image7_1.jpg","image7_2.jpg"],description:"Short description for diary entry 7. Context about the cultural item, where it came from, and why it's meaningful.",reflection:`Reflection paragraph 1 for entry 7. This is the graded material — 1–3 paragraphs describing personal response and analysis.
 
